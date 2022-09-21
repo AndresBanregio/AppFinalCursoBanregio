@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Activity5</string>
+    <string name="buttonNewRegistrer">Nuevo Libro</string>
+    <string name="btnItemEdit">Editar</string>
+    <string name="btnItemDelete">Eliminar</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnEdit">Editar</string>
+    <string name="editTitulo">Titulo</string>
+    <string name="editAutor">Autor</string>
+    <string name="editAño">Año</string>
+    <string name="editEditorial">Editorial</string>
+</resources>
